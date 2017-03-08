@@ -13,7 +13,7 @@ $ brew install maven
 
 ## プロジェクトテンプレートの生成
 ```
-$ mvn archetype:generate -DgroupId=com.example.app -DartifactId=sample  -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+$ mvn archetype:generate -DgroupId=com.example.app -DartifactId=sample -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 ```
 
 ## プロジェクトのチェック
